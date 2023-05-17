@@ -1,0 +1,9 @@
+1)sudo apt update
+2)sudo apt install docker.io
+3)y
+4)git clone
+5)cd
+6)cd
+7)sudo docker build -t filename
+8)sudo docker run -d -p 1234:7667 filename
+9)ls
